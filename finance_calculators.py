@@ -1,16 +1,3 @@
-'''
-PSEUDO CODE
-Import the math module
-Display the menu options i.e. investment or bond calculation
-Allow user to choose option and account for different capitalisations
-1) Accesss to investment calculator
-    Nested statements for types of interest: simple or compound
-    Calculate and display the approprite amount user will get back
-2) Access to home loan repayment calculator
-    Calculate and display amount user will have to repay each month
-3) Error message if invalid input entered
-'''
-
 # FINANCE CALCULATORS
 # The program below allows the user to access two different calculators :
 # An investment calculator and home loan repayment
