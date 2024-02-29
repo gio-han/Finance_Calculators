@@ -9,4 +9,4 @@ This Python program offers an **investment calculator** and a **home loan repaym
 
 ## Installation
 
-Python 3 is needed to run this code, but there are no packages that need to be installed.
+Python 3 is needed to run this code, but there are no other packages or libraries that need to be installed.
