@@ -3,7 +3,7 @@
 
 ## Description of the Project
 
-This Python program offers an investment calculator and a home loan repayment calculator for financial planning.
+This Python program offers an **investment calculator** and a **home loan repayment (bond) calculator** for financial planning.
 * The investment calculator allows the user to choose between simple and compound interest.
 
 
